@@ -1,0 +1,8 @@
+{
+  "name": "Raman Quiz Challenge",
+  "description": "Interactive Raman Quiz Challenge with custom AI quiz creator, timer, Hindi voice text-to-speech, score rings, and review analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
