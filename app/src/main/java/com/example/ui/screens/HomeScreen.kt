@@ -703,7 +703,7 @@ fun HomeScreen(
                                 modifier = Modifier.size(16.dp)
                             )
                             Spacer(modifier = Modifier.width(5.dp))
-                            Text("Paste", style = MaterialTheme.typography.labelLarge, fontWeight = FontWeight.Bold)
+                            Text("", style = MaterialTheme.typography.labelLarge, fontWeight = FontWeight.Bold)
                         }
                     }
 
